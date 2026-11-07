@@ -1,0 +1,8 @@
+{
+  "name": "Хуруугаараа тоолъё! (1-10 Counting Video for Shorts & TikTok)",
+  "description": "A vertical 9:16 48-second educational cartoon video for toddlers aged 3-6 learning to count from 1 to 10 in Mongolian. Ready for YouTube Shorts & TikTok export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
